@@ -1,4 +1,4 @@
-# multix-amsterdam.github.io
+# zlianglab.github.io
 
-This repository hosts the code for the MultiX lab website, using the following template:
+This repository hosts the code for the Zhikai Liang lab website, using the following template:
 - https://github.com/yenchiah/project-website-template
